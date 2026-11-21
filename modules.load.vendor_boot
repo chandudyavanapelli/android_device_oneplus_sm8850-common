@@ -100,6 +100,7 @@ qnoc-alor.ko
 qnoc-canoe.ko
 qnoc-qos.ko
 qpnp-power-on.ko
+qrtr-gunyah.ko
 qrtr.ko
 qseecom_proxy.ko
 qti-regmap-debugfs.ko

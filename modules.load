@@ -254,7 +254,6 @@ qmi_helpers.ko
 qmp_dlkm.ko
 qptf.ko
 qrng_dlkm.ko
-qrtr-gunyah.ko
 qrtr-mhi.ko
 qrtr-smd.ko
 qsee_ipc_irq_bridge.ko
